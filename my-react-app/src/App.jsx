@@ -1,9 +1,8 @@
-import Student from "./Students.jsx";
+import UserGreeting from "./UserGreeting.jsx";
 function App() {
   return (
     <>
-      <Student name="Spongebob" age={30} />
-      <Student name="Jhon Wick" age={99} />
+      <UserGreeting isLoggedIn={true} username="BroCode" />
     </>
   );
 }
