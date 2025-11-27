@@ -14,3 +14,14 @@
   height: auto;
   margin-bottom: 10px;
 }
+
+.student {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.526);
+}
+
+.student p {
+  margin: 0px;
+}
